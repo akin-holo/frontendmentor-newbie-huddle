@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Repo url](https://github.com/akin-holo/frontendmentor-newbie-huddle)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -44,7 +44,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/akin-holo)
-- Twitter - [@yourusername](https://www.x.com/AkinHolo)
+- Frontend Mentor - [akin-holo](https://www.frontendmentor.io/profile/akin-holo)
+- Twitter - [AkinHolo](https://www.x.com/AkinHolo)
 
