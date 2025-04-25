@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repo url](https://github.com/akin-holo/frontendmentor-newbie-huddle)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [single-section-huddle-landing-page](https://single-section-huddle-landing-page.netlify.app/)
 
 ## My process
 
